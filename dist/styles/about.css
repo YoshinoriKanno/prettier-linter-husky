@@ -1,0 +1,6 @@
+.page-about .page-about__heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: red;
+  content: "";
+}

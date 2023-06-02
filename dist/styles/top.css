@@ -1,0 +1,7 @@
+.page-top .page-top__heading,
+.page-top2 .page-top__heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: green;
+  content: "";
+}
